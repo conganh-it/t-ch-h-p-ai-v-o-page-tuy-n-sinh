@@ -9,7 +9,7 @@ Chào bạn, mình là một lập trình viên đam mê khám phá thế giới
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=conganh-it&theme=radical&show_icons=true&count_private=true&hide=prs&hide_title=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=conganh-it&theme=dark&hide_border=false)<br/>
 
@@ -21,6 +21,13 @@ Chào bạn, mình là một lập trình viên đam mê khám phá thế giới
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=conganh-it&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+## 🎨 Animation & Fun
+Thêm chút vui vẻ vào profile nhé!
+
+![Lottie Animation](https://assets9.lottiefiles.com/packages/lf20_mqyxoqzv.json)
 
 ---
 
